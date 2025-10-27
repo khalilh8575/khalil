@@ -1,7 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2025 khalil (https://codepen.io/khalil-the-styleful/pen/oggKgxa)
-Fork of an original work Untitled (https://codepen.io/khalil-the-styleful/pen/GggVgpa)
+Copyright (c) 2025 khalil (https://codepen.io/khalil-the-styleful/pen/ZYQjzpg)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
